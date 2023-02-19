@@ -1,3 +1,3 @@
 # demo
 
-some description
+some description for the developers
